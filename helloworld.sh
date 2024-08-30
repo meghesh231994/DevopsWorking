@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "This is script based method"
+env=$1
+echo "Helo i am in $env stage"
